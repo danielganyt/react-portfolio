@@ -10,7 +10,8 @@ const introdata = {
     title: "I’m Daniel",
     animated: {
         first: "I love coding",
-        second: "I code cool websites"
+        second: "I love my wife",
+        third: "I have a mountain of birds at home"
     },
     description: "There needs to be something meaningful here",
     your_img_url: portfolioImage,
