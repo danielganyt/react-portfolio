@@ -1,18 +1,19 @@
-const logotext = "JOHN";
+import portfolioImage from "./assets/images/react-portfolio.jpg";
+
+const logotext = "DANIEL";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Daniel",
+    description: "I’m Daniel data scientist _ Devloper,currently working in Singapore",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Daniel",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I code cool websites"
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "There needs to be something meaningful here",
+    your_img_url: portfolioImage,
 };
 
 const dataabout = {
